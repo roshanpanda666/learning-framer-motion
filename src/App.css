@@ -1,0 +1,37 @@
+body{
+  background: rgb(15, 15, 15);
+}
+.comp{
+  display: flex;
+  flex-direction: column;
+  justify-content:start ;
+  align-items: start;
+  margin-top: 10%;
+
+}
+.box0{
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid purple;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+  border-radius: 1rem;
+  margin-bottom: 3%;
+  background-color: rgb(255, 15, 255);
+
+}
+.box1{
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid purple;
+  color: rgb(230, 86, 255);
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+  border-radius: 1rem;
+  margin-bottom: 3%;
+  background-color: rgb(249, 2, 249);
+  color: white;
+}
